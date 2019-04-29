@@ -15,8 +15,10 @@ https://docs.google.com/document/d/1mXzEYxLVITI7XvNpuUI4v8I1SuH8hfoNvBN1693BHMQ/
 - I can make anything
   - I can TDD anything
   - I can program fluently
-  - I can debug anything
+  - I can debug anything:
+    [My debugging process](https://github.com/samanthaixer/Portfolio/blob/master/debuggingProcess.md)
   - I can model anything
+    [My challenge approach](https://github.com/samanthaixer/Portfolio/blob/master/challengeApproach.md)
   - I can refactor anything
   - I have a methodical approach to solving problems
 
