@@ -27,5 +27,5 @@ https://docs.google.com/document/d/1mXzEYxLVITI7XvNpuUI4v8I1SuH8hfoNvBN1693BHMQ/
   - I grow collaboratively
 
 - I am equipped for long term growth
- - I manage my own well-being
- - I can learn anything by myself
+  - I manage my own well-being
+  - I can learn anything by myself
