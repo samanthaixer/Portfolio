@@ -1,7 +1,5 @@
 ## My Portfolio
 
-![This is me](images/D50_6563.jpg)
-
 https://docs.google.com/document/d/1w4uywH24Q68ffHi-WTcQhaHwyknMIQ9WLpOLTAS1czk/edit
 
 In this area, I have built up information about me as a developer. A potted history, information about my goals and an update on how I feel I am doing.
@@ -33,3 +31,4 @@ https://docs.google.com/document/d/1mXzEYxLVITI7XvNpuUI4v8I1SuH8hfoNvBN1693BHMQ/
 - I am equipped for long term growth
   - I manage my own well-being
   - I can learn anything by myself
+    [My approach to learning something new](https://github.com/samanthaixer/Portfolio/blob/master/learningSomethingNewApproach.md)
