@@ -4,6 +4,8 @@ https://docs.google.com/document/d/1w4uywH24Q68ffHi-WTcQhaHwyknMIQ9WLpOLTAS1czk/
 
 In this area, I have built up information about me as a developer. A potted history, information about my goals and an update on how I feel I am doing.
 
+[Read about me and my career](https://github.com/samanthaixer/Portfolio/blob/master/aboutMe.md)
+
 ### My Makers Portfolio
 
 If you want to see my "portfolio" from Makers (March 2019 - May 2019) you can find it here. It's currently a work in progress:
