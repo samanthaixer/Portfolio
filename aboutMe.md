@@ -1,0 +1,27 @@
+## Current Day - project manager going back to my dev roots
+
+I have spent the last 4 years at John Lewis (including a 10-month period of maternity leave). I joined as a project manager and on return from maternity leave in July 2018, my managers at John Lewis agreed to support me in my quest to re-learn my more technical skills.
+
+My project managing days at John Lewis have included:
+ - Joining the organisation to run a project and promptly suggesting stopping the project as it was too dependent on another large project that had unknown timelines
+ - Moving to the above-mentioned large project and delivering the high-level design in a waterfall project
+ - Moving to the online area of John Lewis and helping to lead a change in approach to delivery, moving to a fully agile set of teams with demand managed on a quarterly basis. Working alongside Dan North.
+ - Leading a piece of work called "Organisational Agility" across the whole of John Lewis IT, moving to more agile ways of working, coaching teams to build smaller, more iterative functionality in order to release value early and get feedback. Working alongside Dan North, Deliberate, Thoughtworks and Equal Experts.
+
+## A brief history of everything (or just me)
+
+At school. I firmly believe that when you are at school, it is way too soon to decide what you want to do with your life. You're 14 (choosing GCSEs), 16 (choosing A Levels) or 17/18 (choosing potential higher education options) - are you really ready to decide what career path you're going to take?
+
+I made one bad choice and one good choice at GCSE level. I am not a very physically active person and I am no good at sports. But my best friend was studying PE at GCSE and I *liked* sports even if I was absolutely rubbish at them. So I chose a GCSE in PE. Bad idea, I got a D! My other choice was to do further science which was a great idea as I loved studying science and I got a double A* for my efforts. I didn't particularly feel like taking the science route any further than GCSE though so I was a bit lost.
+
+Along came our Computer Studies teacher who steered me towards Computer Studies at A Level. Possibly because she was trying to encourage more girls into computing, or maybe she just wanted people in her class, but it was exactly what I needed. A topic I was interested in having watched my Dad and brother building BBC Basic projects when I was little (I think I even dabbled a little) and which gave me a direction - Computer Science at Uni. Sounds perfect, right?
+
+I hadn't banked on not really enjoying some of the topics in Computer Science. After studying Maths at A-Level, I had been put off Maths completely (loved GCSE level, did NOT like A Level) and this was a large part of my first year in a Computer Science degree. I persevered. Some topics I loved (Human Computer Interaction, Analysis), some I couldn't choose because they clashed (Databases) and some I just wasn't interested in (I didn't really care too much for networks and topics about buses although I did well at converting binary to hexadecimal etc). I came out of uni with a 2:1 but did not feel equipped for the real world.
+
+My first job was on the helpdesk for a software house and I quickly moved to managing the team and then into one of their development teams building integrations between the front end system and insurer quoting systems. I learned to use WebMethods, I used Java and I even learned a little C#. A good friend of mine at work was a database expert so I picked up a fair bit from him on databases but at the end of the day, I didn't enjoy running a team of 8-12 developers where there was no TDD, no pair programming, just big upfront designs, big periods of not talking to other people, and trying to manage a large team as well as deliver code myself. I decided to opt for a career in project management instead, actually talking to people.
+
+But first - 6 months out to go travel the world. My then boyfriend (and now husband) and I both quit our jobs in the middle of the recession and went off round the world. It was amazing. If you're thinking of doing it, you should!
+
+When we got back, I took a job with a housing charity in London (Peabody) thinking that I could combine my wanting to help people with working in IT. I was wrong, I still just worked in IT. I ran a small development department within the IT department, looking after the software systems used in-house and also the website and intranet pages. But it wasn't enough. I didn't get to project manage any big projects as there were no big projects. I didn't do any coding myself as I was managing the team. I helped a few people in my team to improve their communication skills and helped the department to adopt an agile way of working but I needed more challenge. I approached Tesco.
+
+Tesco took me on as "we want more of her" (quote said to my recruitment consultant) and I spent 3 years at Tesco practicing my Agile skills, running development projects and then eventually getting a promotion to team manager. However as part of my promotion I was put in charge of opening new stores (and refreshing existing ones) which was all about hardware and nothing to do with software. It was all of the bits of IT that interested me NOT AT ALL. And that tied in with a bad culture at Tesco made me feel like it was time to move on. I looked for the opposite in terms of culture and found John Lewis.
