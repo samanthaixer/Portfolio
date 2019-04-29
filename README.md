@@ -19,7 +19,8 @@ https://docs.google.com/document/d/1mXzEYxLVITI7XvNpuUI4v8I1SuH8hfoNvBN1693BHMQ/
     [My debugging process](https://github.com/samanthaixer/Portfolio/blob/master/debuggingProcess.md)
   - I can model anything
   - I can refactor anything
-  - I have a methodical approach to solving problems
+    - Bowling challenge shows a big refactor after the original design to make it simpler: **[Bowling](https://github.com/samanthaixer/bowling-challenge/commits/master)**
+  - I have a methodical approach to solving problems:
     [My challenge approach](https://github.com/samanthaixer/Portfolio/blob/master/challengeApproach.md)
 
 - I help my teams succeed
@@ -30,5 +31,5 @@ https://docs.google.com/document/d/1mXzEYxLVITI7XvNpuUI4v8I1SuH8hfoNvBN1693BHMQ/
 
 - I am equipped for long term growth
   - I manage my own well-being
-  - I can learn anything by myself
+  - I can learn anything by myself:
     [My approach to learning something new](https://github.com/samanthaixer/Portfolio/blob/master/learningSomethingNewApproach.md)
